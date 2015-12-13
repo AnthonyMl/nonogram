@@ -1,0 +1,9 @@
+[package]
+
+name = "nono_curses"
+version = "0.0.1"
+authors = [ "Anthony Mladenov" ]
+
+[dependencies]
+
+ncurses = "*"
